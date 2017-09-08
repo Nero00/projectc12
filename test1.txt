@@ -1,1 +1,6 @@
 just ana test 
+<<<<<<< HEAD
+=======
+no change s has been made 
+>>>>>>> 8e786852a6ecccd213f507d6f3a19c25d59c3ad9
+ts ts tsts ts
